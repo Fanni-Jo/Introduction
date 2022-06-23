@@ -1,4 +1,4 @@
-# TADREEBI
+# Fanni
 
 Next.Js-Django Full-Stack Web App of Fanni-Jo
 
